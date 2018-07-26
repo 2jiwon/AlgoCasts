@@ -1,7 +1,7 @@
 
 ### Hint
 
-[img](./steps_diagram.png)
+![img](./steps_diagram.png)
 
 - First, we are going to have some number of columns in the rows to iterate through.
 (row: -- / col: |)
@@ -10,7 +10,7 @@
 
 Hmm, just name them column and row instead of using 'i'and 'j'.
 
-[img](./steps_diagram2.png)
+![img](./steps_diagram2.png)
 
 ### Easiest, Straightforward solution
 #### workflow
@@ -32,7 +32,7 @@ for( let row = 0; row < n; row++) {
 ```js
   for( let column = 0; column < n; column++) {}
 ```
-[img](./steps_diagram3.png)
+![img](./steps_diagram3.png)
 
   - IF the current column is equal to OR less than the current row
 ```js

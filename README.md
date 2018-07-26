@@ -66,5 +66,5 @@ Press Ctrl + C to leave debug repl
 + Exit the REPL mode, hit Ctrl + c
 + Exit the debug mode, hit Ctrl + c again
 
-![img](./note/debug_diagram.png)
+<img src="./note/debug_diagram.png" width="100">
 
